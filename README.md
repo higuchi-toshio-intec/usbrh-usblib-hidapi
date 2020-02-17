@@ -1,29 +1,21 @@
 # usbrh-usblib-hidapi
 
-+ Build
 1. Install some package(s)
-
-```
-sudo apt install -y gcc make libhidapi-dev
-```
-
+   ```
+   sudo apt install -y gcc make libhidapi-dev
+   ```
 1. Clone repository
-
-```
-mkdir ${HOME}/git
-cd ${HOME}/git
-git clone URL
-```
-
+   ```
+   mkdir ${HOME}/git
+   cd ${HOME}/git
+   git clone URL
+   ```
 1. Make
-
-```
-cd usbrh-usblib-hidapi
-make
-```
-
+   ```
+   cd usbrh-usblib-hidapi
+   make
+   ```
 1. Execute
-
-```
-sudo ./usbrh-usblib-hidapi
-```
+   ```
+   sudo ./usbrh-usblib-hidapi
+   ```
