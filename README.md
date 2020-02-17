@@ -2,7 +2,7 @@
 
 1. Install some package(s)
    ```
-   sudo apt install -y gcc make libhidapi-dev
+   sudo apt install -y gcc g++ make libhidapi-dev
    ```
 1. Clone repository
    ```
