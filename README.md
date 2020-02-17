@@ -1,0 +1,1 @@
+# usbrh-usblib-hidapi
